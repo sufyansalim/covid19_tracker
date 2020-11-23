@@ -4,7 +4,10 @@
 
 ![covid](covid.png)
 
+## [Live Site](https://covid19-global-live.netlify.app/)
+
 >Covid19 Tracker App which tracks records globally and countrywise the API used is "https://covid19.mathdro.id/api"
+
 
 # Usage
 
