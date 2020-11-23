@@ -2,7 +2,7 @@
 
 ## React + Material UI + Hooks
 
-![covid](covid.png)
+![covid](covid.PNG)
 
 ## [Live Site](https://covid19-global-live.netlify.app/)
 
